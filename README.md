@@ -1,1 +1,1 @@
-I'm an undergrad math student at Concordia university in Montréal. This is a repo for my statistics projects.
+I'm an undergrad math student at Concordia university in Montréal
